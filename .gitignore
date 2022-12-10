@@ -1,0 +1,11 @@
+PDF_Drafts
+*.pptx
+Code/data
+Code/haarcascades
+Code/haarcascades_cuda
+Code/config.py
+Code/.ipynb_checkpoints
+*.html
+Code/exported_charts
+Code/__pycache__
+Extract_Data.ipynb
